@@ -1,0 +1,14 @@
+{
+  "name": "vanila",
+  "version": "1.0.0",
+  "description": "vanilaJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
